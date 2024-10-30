@@ -6,4 +6,4 @@ This Employee Management System (EMS) is a web-based application designed to str
 **2.** Add, edit, and delete employee records
 **3.** Manage employee details: name, email, address, salary, DOB, and department
 **4.** User-friendly interface with data validation
-**5.** Feel free to explore the code, contribute, and help improve this project!
+Feel free to explore the code, contribute, and help improve this project!
